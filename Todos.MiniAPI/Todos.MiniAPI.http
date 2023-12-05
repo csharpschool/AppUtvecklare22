@@ -1,0 +1,6 @@
+@Todos.MiniAPI_HostAddress = http://localhost:5085
+
+GET {{Todos.MiniAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

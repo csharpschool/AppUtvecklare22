@@ -1,0 +1,17 @@
+C:\Slask\TodoTest\Todos.Data\bin\Debug\net8.0\Todos.Data.deps.json
+C:\Slask\TodoTest\Todos.Data\bin\Debug\net8.0\Todos.Data.runtimeconfig.json
+C:\Slask\TodoTest\Todos.Data\bin\Debug\net8.0\Todos.Data.dll
+C:\Slask\TodoTest\Todos.Data\bin\Debug\net8.0\Todos.Data.pdb
+C:\Slask\TodoTest\Todos.Data\bin\Debug\net8.0\Todos.Common.dll
+C:\Slask\TodoTest\Todos.Data\bin\Debug\net8.0\Todos.Common.pdb
+C:\Slask\TodoTest\Todos.Data\obj\Debug\net8.0\Todos.Data.csproj.AssemblyReference.cache
+C:\Slask\TodoTest\Todos.Data\obj\Debug\net8.0\Todos.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Slask\TodoTest\Todos.Data\obj\Debug\net8.0\Todos.Data.AssemblyInfoInputs.cache
+C:\Slask\TodoTest\Todos.Data\obj\Debug\net8.0\Todos.Data.AssemblyInfo.cs
+C:\Slask\TodoTest\Todos.Data\obj\Debug\net8.0\Todos.Data.csproj.CoreCompileInputs.cache
+C:\Slask\TodoTest\Todos.Data\obj\Debug\net8.0\Todos.Data.csproj.CopyComplete
+C:\Slask\TodoTest\Todos.Data\obj\Debug\net8.0\Todos.Data.dll
+C:\Slask\TodoTest\Todos.Data\obj\Debug\net8.0\refint\Todos.Data.dll
+C:\Slask\TodoTest\Todos.Data\obj\Debug\net8.0\Todos.Data.pdb
+C:\Slask\TodoTest\Todos.Data\obj\Debug\net8.0\Todos.Data.genruntimeconfig.cache
+C:\Slask\TodoTest\Todos.Data\obj\Debug\net8.0\ref\Todos.Data.dll

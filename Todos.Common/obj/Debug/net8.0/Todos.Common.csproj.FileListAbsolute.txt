@@ -1,0 +1,11 @@
+C:\Slask\TodoTest\Todos.Common\bin\Debug\net8.0\Todos.Common.deps.json
+C:\Slask\TodoTest\Todos.Common\bin\Debug\net8.0\Todos.Common.dll
+C:\Slask\TodoTest\Todos.Common\bin\Debug\net8.0\Todos.Common.pdb
+C:\Slask\TodoTest\Todos.Common\obj\Debug\net8.0\Todos.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Slask\TodoTest\Todos.Common\obj\Debug\net8.0\Todos.Common.AssemblyInfoInputs.cache
+C:\Slask\TodoTest\Todos.Common\obj\Debug\net8.0\Todos.Common.AssemblyInfo.cs
+C:\Slask\TodoTest\Todos.Common\obj\Debug\net8.0\Todos.Common.csproj.CoreCompileInputs.cache
+C:\Slask\TodoTest\Todos.Common\obj\Debug\net8.0\Todos.Common.dll
+C:\Slask\TodoTest\Todos.Common\obj\Debug\net8.0\refint\Todos.Common.dll
+C:\Slask\TodoTest\Todos.Common\obj\Debug\net8.0\Todos.Common.pdb
+C:\Slask\TodoTest\Todos.Common\obj\Debug\net8.0\ref\Todos.Common.dll
